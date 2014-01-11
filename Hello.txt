@@ -1,4 +1,9 @@
 My name is rahul
 This is my new experiment with git.
 This is added in NewBranch.
+
 This is added in Master.
+
+This is again added in NewBranch.
+This is third time added in NewBranch.
+
